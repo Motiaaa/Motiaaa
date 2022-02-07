@@ -17,7 +17,7 @@
 <img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://laravel.com/img/logomark.min.svg" />
 
-<img align="left" alt="Vue" width="26px" src="https://vuejs.org/images/logo.svg" />
+<img align="left" alt="Vue" width="26px" src="https://positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png" />
 
 
 
