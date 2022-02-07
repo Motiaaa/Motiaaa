@@ -15,15 +15,19 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/131px-Unofficial_JavaScript_logo_2.svg.png"/>
 <img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" />
-<img align="left" alt="laravel" width="26px" src="https://laravel.com/img/logomark.min.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://laravel.com/img/logomark.min.svg" />
+
 <img align="left" alt="Vue" width="26px" src="https://vuejs.org/images/logo.svg" />
 
 
 
 <img align="left" alt="bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-220px-Bootstrap_logo.svg.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://www.01net.com//images/logiciel/1501.gif" />
+
 <img align="left" alt="mysql" width="26px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
+
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 <img align="left" alt="JavaScript" width="26px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=s180" />
 
 <br />
