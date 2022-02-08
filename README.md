@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a web develepeur
+- 👋 Hi, I’m a web develepeur +
 - 👀 I’m interested on PHP HTML CSS AND JS, LARAVEL / BOOTSTRAP
 - 🌱 I’m currently learning LARAVEL 8 and VUEJS
 
