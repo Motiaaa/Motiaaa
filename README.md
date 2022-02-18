@@ -32,7 +32,7 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/motiaa-othman
+[linkedin]: https://www.linkedin.com/in/motiaaa
 <!---
 Motiaaa/Motiaaa is a ✨  web develepeur ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
